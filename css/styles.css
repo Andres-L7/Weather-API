@@ -1,0 +1,22 @@
+body {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+}
+
+#weather_header{
+    color: green;
+}
+
+h2{
+    color: white
+}
+h3 {
+    color: blue;
+}
+
+section {
+    color: red;
+    font-size:200%;
+}
